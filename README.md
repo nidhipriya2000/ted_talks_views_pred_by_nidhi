@@ -7,7 +7,7 @@ TED is devoted to spreading powerful ideas on just about any topic. These datase
 
 * Number of attributes: 19
 
-$ Features information:
+Features information:
 
 The dataset contains features like:
 
